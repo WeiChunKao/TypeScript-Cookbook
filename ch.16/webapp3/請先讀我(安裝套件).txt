@@ -1,0 +1,8 @@
+在執行此專案前, 請先用以下指令安裝套件：
+
+npm install --save-dev typescript@4.3.5 webpack@5.51.1 webpack-cli@4.8.0 ts-loader@9.2.5 webpack-dev-server@4.0.0 css-loader@6.2.0 style-loader@3.2.1 json-server@0.16.3 npm-run-all@4.1.5
+npm install bootstrap@5.1.0 axios@0.21.1
+
+或者自動下載所有套件：
+
+npm install

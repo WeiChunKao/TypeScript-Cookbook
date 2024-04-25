@@ -1,0 +1,7 @@
+在執行此專案前, 請先用以下指令安裝套件：
+
+npm install --save-dev typescript@4.3.5 jest@27.0.6 @types/jest ts-jest@27.0.4
+
+或者自動下載所有套件：
+
+npm install

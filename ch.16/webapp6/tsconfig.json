@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "module": "commonJs",
+        "moduleResolution": "node",
+        "jsx": "react",
+        "jsxFactory": "createElement",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    }
+}

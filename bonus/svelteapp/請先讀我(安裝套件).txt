@@ -1,0 +1,8 @@
+本範例的許多內容是由 SvelteKit 自動產生, 因此請直接用以下指令重新下載套件：
+
+npm install
+
+重新安裝或升級非 Svelte 套件：
+
+npm install --save-dev typescript@4.3.5 @sveltejs/adapter-static@next json-server@0.16.3 npm-run-all@4.1.5 express@4.17.1 connect-history-api-fallback@1.6.0
+npm install bootstrap@5.1.0 axios@0.21.1

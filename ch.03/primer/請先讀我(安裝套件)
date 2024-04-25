@@ -1,0 +1,11 @@
+在執行此專案前, 可先用以下指令安裝套件 (不強制)：
+
+npm install nodemon@2.0.12
+
+接著用以下指令監看並自動執行指定檔案：
+
+npx nodemon index.js
+
+若不使用套件, 可直接用 Node.js 執行程式：
+
+node index.js
